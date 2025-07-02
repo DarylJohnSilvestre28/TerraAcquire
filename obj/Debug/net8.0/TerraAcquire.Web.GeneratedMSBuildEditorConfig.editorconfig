@@ -1,0 +1,149 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TerraAcquire.Web
+build_property.RootNamespace = TerraAcquire.Web
+build_property.ProjectDir = C:\Users\daryl\source\repos\TerraAcquire\TerraAcquire.Web\TerraAcquire.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\daryl\source\repos\TerraAcquire\TerraAcquire.Web\TerraAcquire.Web
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Account/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dJbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Agent/CalendarView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWdlbnRcQ2FsZW5kYXJWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Agent/Cancel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWdlbnRcQ2FuY2VsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Agent/MyTrippings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWdlbnRcTXlUcmlwcGluZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Customer/AccountProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcQWNjb3VudFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Customer/BookaTripping.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcQm9va2FUcmlwcGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Customer/CalendarView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcQ2FsZW5kYXJWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Customer/Cancel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcQ2FuY2VsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Customer/MyTrippinngs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcTXlUcmlwcGlubmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Manage/ModelHouses/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlXE1vZGVsSG91c2VzXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Manage/ModelHouses/ArPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlXE1vZGVsSG91c2VzXEFyUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Manage/ModelHouses/FeaturePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlXE1vZGVsSG91c2VzXEZlYXR1cmVQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Manage/ModelHouses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlXE1vZGVsSG91c2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Manage/ModelHouses/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlXE1vZGVsSG91c2VzXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Manage/Trippings/CalendarView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlXFRyaXBwaW5nc1xDYWxlbmRhclZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Manage/Trippings/Cancel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlXFRyaXBwaW5nc1xDYW5jZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Manage/Trippings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlXFRyaXBwaW5nc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Manage/Users/Activate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlXFVzZXJzXEFjdGl2YXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Manage/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlXFVzZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Public/ArPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGljXEFyUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Public/CustomerSignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGljXEN1c3RvbWVyU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Public/FeaturePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGljXEZlYXR1cmVQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Public/LandingPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGljXExhbmRpbmdQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Public/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGljXExvZ0luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Public/ModelHouse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGljXE1vZGVsSG91c2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daryl/source/repos/TerraAcquire/TerraAcquire.Web/TerraAcquire.Web/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8z564834h0

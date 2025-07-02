@@ -1,0 +1,34 @@
+﻿@page "/manage/trippings"
+@model TerraAcquire.Web.Pages.Manage.Trippings.Index
+@{
+}
+ 
+<h3>Trippings</h3>
+
+<div class="search">
+    <i class="bi bi-search"></i>
+    <input type="text" class="form-control" placeholder="Search" id="search" value="@Model?.Data?.Entity?">
+</div>
+
+<div class="row">
+    <div class="col-3">
+        <div class="form-group">
+            <label for="">Sort By</label>
+            <select class="form-control" id="sortBy" asp-for="Data.Entity">
+                <option value="">choose</option>
+                <option value="name">Name</option>
+                <option value="description">Description</option>
+                <option value="abbreviation">Abbreviation</option>
+            </select>
+        </div>
+    </div>
+
+</div>
+<br />
+<div class="row">
+    <div class="col-2">
+        <div class="form-group">
+            <a href="~/manage/trippings/create" class="form-control btn btn-success"></a>
+        </div>
+    </div>
+</div>

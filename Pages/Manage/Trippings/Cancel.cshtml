@@ -1,0 +1,23 @@
+﻿@page
+@model TerraAcquire.Web.Pages.Manage.Trippings.CancelModel
+@{
+    ViewData["Title"] = "Cancel";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+    <h1>@ViewData["Title"]</h1>
+
+    <form method="post">
+        <div>
+            <p>Are you sure you want to cancel?</p>
+            <button type="submit" class="btn btn-danger">Cancel</button>
+        </div>
+    </form>
+</body>
+</html>
