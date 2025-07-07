@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ByUfcOI7Xqc=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\daryl\\source\\repos\\TerraAcquire\\TerraAcquire.Web\\TerraAcquire.Web\\TerraAcquire.Web.csproj",
+  "dgSpecHash": "rz0M0cQ97XY=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\daryl\\Documents\\daryl\\TerraAcquire.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\daryl\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\daryl\\.nuget\\packages\\bcrypt.net\\0.1.0\\bcrypt.net.0.1.0.nupkg.sha512",
@@ -45,6 +45,15 @@
     "C:\\Users\\daryl\\.nuget\\packages\\tinymce\\7.9.0\\tinymce.7.9.0.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\daryl\\TerraAquire.Contracts\\TerraAquire.Contracts.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\daryl\\TerraAquire.Contracts\\TerraAquire.Contracts.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
     {
       "code": "NU1701",
       "level": "Warning",
