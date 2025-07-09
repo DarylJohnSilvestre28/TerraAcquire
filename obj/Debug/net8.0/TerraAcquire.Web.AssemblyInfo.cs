@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TerraAcquire.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7f982e347a782d78de2a3cab17e0c8289ab28cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7c0ee572f69fcd274ee200225be3ac1171b8791")]
 [assembly: System.Reflection.AssemblyProductAttribute("TerraAcquire.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TerraAcquire.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
